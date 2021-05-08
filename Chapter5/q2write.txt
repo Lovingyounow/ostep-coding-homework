@@ -1,0 +1,3 @@
+wirte before fork function1
+child write
+parent write
